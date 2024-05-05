@@ -1,0 +1,5 @@
+City_ID,City,Latitude,Longitude,Temperature,Humidity,Cloudiness,Wind Speed,Country,Date
+0,bredasdorp,-34.5322,20.0403,54.36,83,11,3.87,ZA,1714871896
+1,georgetown,5.4112,100.3354,84.13,84,20,2.3,MY,1714871712
+2,hermanus,-34.4187,19.2345,57.33,81,61,6.4,ZA,1714871896
+3,bolivar,37.6145,-93.4105,68.76,88,0,7.38,US,1714871711
