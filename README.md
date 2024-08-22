@@ -1,4 +1,4 @@
-# homework6
+# WeatherPy and VacationPy
 
 Open the WeatherPy.ipynb and VacationPy.ipynb files in [Jupyter Lab](https://jupyter.org/)
 
